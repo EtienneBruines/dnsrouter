@@ -1,0 +1,8 @@
+example.local
+  alias: www.example.local
+  docker: adejonge/helloworld
+  idle: 15s
+
+example2.local
+  docker: adejonge/helloworld
+  idle: 60s
